@@ -32,7 +32,7 @@ A recreation of the Game Boy Player Frames for the Cube XX (Plus Some Extras!)
 
 ## Credits & Thanks
 
-- Altar of Gaming : [https://altarofgaming.com/game-boy-advance-models-color-variations-limited-editions/](https://altarofgaming.com/game-boy-advance-models-color-variations-limited-editions/)
+- Altar of Gaming : [https://altarofgaming.com/tag/console-variations/](https://altarofgaming.com/tag/console-variations/)
 - Spriters Resource : [https://www.spriters-resource.com/gamecube/gameboyplayer/](https://www.spriters-resource.com/gamecube/gameboyplayer/)
 - LagoLunatic : [https://github.com/LagoLunatic/GCFT](https://github.com/LagoLunatic/GCFT)
 - MuOS Team: [https://muos.dev/](https://muos.dev/docs/crew)
