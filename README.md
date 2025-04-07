@@ -1,6 +1,6 @@
-# Game Boy Player Overlays for the Anbernic Cube XX 
+# Game Boy Player Overlays for the Anbernic Cube XX (MuOS)
 
-A recreation of the Game Boy Player Frames for the Cube XX (MuOS)
+A recreation of the Game Boy Player Frames for the Cube XX (Plus Some Extras!)
 
 ![GBAP_Cube](https://github.com/user-attachments/assets/615fa171-ae51-49ad-a004-7f7fef488888)
 
