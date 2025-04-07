@@ -11,7 +11,7 @@ A recreation of the Game Boy Player Frames for the Cube XX (Plus Some Extras!)
    
 ![GBAP_Setup](https://github.com/user-attachments/assets/f2167434-059d-408d-bf00-6f858289f949)
 
-# Enable / Change Bezels
+# Enable / Change Overlays
 
 - Open a Game Boy Advance Game on the Cube XX
 - Press the Menu Key (M) plus the X key to open the Retroarch Menu
@@ -21,6 +21,14 @@ A recreation of the Game Boy Player Frames for the Cube XX (Plus Some Extras!)
 - Return to the previous menu (Press B) & Select "Overrides"
 - Select "Save Content Directory Overrides"
 - Press the Menu key (M) + X Key to close the Retroarch Menu, that's it!
+
+# How to Centre The Game Window
+
+- Go to the RetroArch Main Menu (Menu + X >> Press B)
+- Scroll down & Select "Settings" >> Video >> Scaling
+- Set "Viewport Ancor Bias Y" to 0.50
+- Return to the RetroArch Main Menu (Press B a few times) & Select "Quick Menu"
+- Select "Overrides" & finally "Save Content Directory Overrides"
 
 ## Credits & Thanks
 
