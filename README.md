@@ -8,6 +8,7 @@ A recreation of the Game Boy Player Frames for the Cube XX (MuOS)
 
 - Download & extract the GBA_Player_Overlays.zip archive from the [release page](https://github.com/acatone-git/Game_Boy_Player_Overlays_CubeXX/releases)
 - Copy to the folder with the overlays to X:\MUOS\retroarch\overlays (as example below)
+   
 ![GBAP_Setup](https://github.com/user-attachments/assets/f2167434-059d-408d-bf00-6f858289f949)
 
 # Enable / Change Bezels
