@@ -13,7 +13,7 @@ A recreation of the Game Boy Player Frames for the Cube XX (MuOS)
 
 # Enable / Change Bezels
 
-- Open a Game Boy Advance Game
+- Open a Game Boy Advance Game on the Cube XX
 - Press the Menu Key (M) plus the X key to open the Retroarch Menu
 - Scroll down & Select "On-Screen Overlay"
 - Select "Overlay Preset" & Pick the overlay you like the most (ex. GBA_Player_Overlay/Wood.cfg)
