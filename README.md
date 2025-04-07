@@ -22,7 +22,7 @@ A recreation of the Game Boy Player Frames for the Cube XX (Plus Some Extras!)
 - Select "Save Content Directory Overrides"
 - Press the Menu key (M) + X Key to close the Retroarch Menu, that's it!
 
-# How to Centre The Game Window
+## Centre The Game Window
 
 - Go to the RetroArch Main Menu (Menu + X >> Press B)
 - Scroll down & Select "Settings" >> Video >> Scaling
