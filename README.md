@@ -17,6 +17,7 @@ A recreation of the Game Boy Player Frames for the Cube XX (MuOS)
 - Press the Menu Key (M) plus the X key to open the Retroarch Menu
 - Scroll down & Select "On-Screen Overlay"
 - Select "Overlay Preset" & Pick the overlay you like the most (ex. GBA_Player_Overlay/Wood.cfg)
+- Set the "Overlay Opacity" to 1.00
 - Return to the previous menu (Press B) & Select "Overrides"
 - Select "Save Content Directory Overrides"
 - Press the Menu key (M) + X Key to close the Retroarch Menu, that's it!
