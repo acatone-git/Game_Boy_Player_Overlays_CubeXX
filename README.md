@@ -2,7 +2,7 @@
 
 A recreation of the Game Boy Player Frames for the Cube XX (Plus Some Extras!)
 
-![GBAP_Cube](https://github.com/user-attachments/assets/615fa171-ae51-49ad-a004-7f7fef488888)
+![GBA_Player_Demo](https://github.com/user-attachments/assets/772989c7-9f2c-439e-8331-c14f10c3e8b2)
 
 ## Setup
 
